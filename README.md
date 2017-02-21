@@ -3,9 +3,9 @@ Collection of Deep learning related papers / links / tutorials...
 
 ## Video Games
 
-Playing Atari with Deep Reinforcement Learning: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
-Super Smash bros using purely supervised imitation learning context: https://arxiv.org/abs/1702.05663
-Mario Kart with Tensor Flow: http://kevinhughes.ca/blog/tensor-kart Code: https://github.com/kevinhughes27/TensorKart
+* Playing Atari with Deep Reinforcement Learning: [Ref](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+* Super Smash bros using purely supervised imitation learning context: [Ref](https://arxiv.org/abs/1702.05663)
+* Mario Kart with Tensor Flow: [Ref](http://kevinhughes.ca/blog/tensor-kart) [Code](https://github.com/kevinhughes27/TensorKart)
 
 ## Classification
 
