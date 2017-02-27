@@ -26,3 +26,8 @@ https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
 ## Interesting Posts
 https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+
+
+### Reinforcement Learning
+An Overview (2017) https://arxiv.org/abs/1701.07274#
+
