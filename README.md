@@ -22,6 +22,7 @@ Improving GameBoy Camera images: http://www.pinchofintelligence.com/photorealist
 
 ## Courses
 https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+http://course.fast.ai/index.html
 
 
 ## Interesting Posts
