@@ -31,3 +31,8 @@ https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
 ### Reinforcement Learning
 An Overview (2017) https://arxiv.org/abs/1701.07274#
 
+
+### Tools
+Tensorflow
+Keras 2.0
+DeepLearning4j
