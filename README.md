@@ -12,6 +12,9 @@ Collection of Deep learning related papers / links / tutorials...
 
 ## Time Series
 
+## Sound Processing
+
+https://github.com/astorfi/3D-convolutional-speaker-recognition
 
 ## Generation 
 
