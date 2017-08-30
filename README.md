@@ -37,6 +37,10 @@ An Overview (2017) https://arxiv.org/abs/1701.07274#
 
 
 ### Tools
-Tensorflow
-Keras 2.0
-DeepLearning4j
+* Tensorflow
+* Keras 2.0
+* DeepLearning4j
+* Dlib
+* Torch
+* Caffe
+* PyTorch
