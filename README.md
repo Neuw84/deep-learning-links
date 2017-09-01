@@ -10,9 +10,9 @@ Collection of Deep learning related papers / links / tutorials...
 
 ## Object Detection
 
-SSD: Single Shot MultiBox Detector https://arxiv.org/abs/1512.02325
-R-FCN: Object Detection via Region-based Fully Convolutional Networks https://arxiv.org/abs/1506.02640
-You Only Look Once: Unified, Real-Time Object Detection https://arxiv.org/abs/1506.02640
+* SSD: Single Shot MultiBox Detector [Ref](https://arxiv.org/abs/1512.02325) 29 Dec 2016
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks [Ref](https://arxiv.org/abs/1506.02640) 21 Jun 2016
+* You Only Look Once: Unified, Real-Time Object Detection [Ref](https://arxiv.org/abs/1506.02640)  9 May 2016
 
 ## Classification
 
