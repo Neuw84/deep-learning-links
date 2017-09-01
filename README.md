@@ -35,6 +35,7 @@ https://github.com/astorfi/3D-convolutional-speaker-recognition
 Improving GameBoy Camera images: http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/
 
 ## Tutorials
+* https://github.com/sachinruk/deepschool.io
 
 
 ## Courses & Summer schools, etc
