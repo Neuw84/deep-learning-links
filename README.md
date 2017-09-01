@@ -14,7 +14,14 @@ Collection of Deep learning related papers / links / tutorials...
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks [Ref](https://arxiv.org/abs/1506.02640) 21 Jun 2016
 * You Only Look Once: Unified, Real-Time Object Detection [Ref](https://arxiv.org/abs/1506.02640)  9 May 2016
 
-## Classification
+## Image Classification (from Google Inception to....)
+
+* Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning [Ref](https://research.google.com/pubs/pub45169.html) 2016 (inception from 2014) (Google)
+* Deep Residual Learning for Image Recognition [Ref](https://arxiv.org/abs/1512.03385)   10 Dec 2015 (Microsoft)
+* Identity Mappings in Deep Residual Networks [Ref](https://arxiv.org/abs/1603.05027) 25 Jul 2016 (Microsoft II)
+* Deep Networks with Stochastic Depth [Ref](https://arxiv.org/abs/1603.09382) 28 Jul 2016
+* Densely Connected Convolutional Networks [Ref](https://arxiv.org/abs/1608.06993) 27 Aug 2017
+
 
 
 ## Time Series
