@@ -7,6 +7,13 @@ Collection of Deep learning related papers / links / tutorials...
 * Super Smash bros using purely supervised imitation learning context: [Ref](https://arxiv.org/abs/1702.05663)
 * Mario Kart with Tensor Flow: [Ref](http://kevinhughes.ca/blog/tensor-kart) [Code](https://github.com/kevinhughes27/TensorKart)
 
+
+## Object Detection
+
+SSD: Single Shot MultiBox Detector https://arxiv.org/abs/1512.02325
+R-FCN: Object Detection via Region-based Fully Convolutional Networks https://arxiv.org/abs/1506.02640
+You Only Look Once: Unified, Real-Time Object Detection https://arxiv.org/abs/1506.02640
+
 ## Classification
 
 
